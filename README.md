@@ -1,2 +1,2 @@
 Тестовое задание 
-Ссылка на саййт https://kostya21ru.github.io/calculator-food/
+Ссылка на сайт https://kostya21ru.github.io/calculator-food/
